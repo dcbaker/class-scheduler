@@ -3,8 +3,8 @@ package schedule
 import (
 	"reflect"
 
-	"github.com/dcbaker/class_sched/rooms"
-	"github.com/dcbaker/class_sched/subjects"
+	"github.com/dcbaker/class-scheduler/rooms"
+	"github.com/dcbaker/class-scheduler/subjects"
 )
 
 type Teacher struct {

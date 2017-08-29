@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	//"github.com/dcbaker/class_sched/rooms"
-	"github.com/dcbaker/class_sched/schedule"
-	"github.com/dcbaker/class_sched/subjects"
+	"github.com/dcbaker/class-scheduler/schedule"
+	"github.com/dcbaker/class-scheduler/subjects"
 )
 
 // XXX: need to take arguments or read config file or something
